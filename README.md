@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<embed src="MATLAB Experiments PPT.pdf#toolbar=0&navpanes=0&scrollbar=1">
+<embed src="MATLAB xperiments PPT.pdf#toolbar=0&navpanes=0&scrollbar=1">
 
 </body>
 </html>
